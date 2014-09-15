@@ -1,4 +1,4 @@
 
 //only for adding and committing file…
 git add files copies files (at their current state) to the stage.
-git commit saves a snapshot of the stage as a commit.
+git commit saves a snapshot of the stage as a com
